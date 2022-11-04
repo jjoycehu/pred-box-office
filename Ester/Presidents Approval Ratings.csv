@@ -1,16 +1,16 @@
-Order,President,Highest approval,Lowest approval,High –Low,Highest disapproval,Highest margin,Lowest margin,Final poll,Approval average,Pollsper year
-46,Biden,57  ,38 ,16,59 ,20 ,−16  ,N/A,N/A,N/A
-45,Trump,49  ,34 ,15,62 ,4 ,−28  ,34  ,41,40
-44,Obama,68 ,38 ,31,55 ,56 ,−18 ,59 ,47.9,48.4
-43,G. W. Bush,90 ,25 ,65,71 ,83 ,−46 ,34 ,49.4,33.7
-42,Clinton,73 ,37 ,36,54 ,48 ,−14 ,66 ,55.1,28.5
-41,G. H. W. Bush,89 ,29 ,60,60 ,82 ,−30 ,56 ,60.9,39.5
-40,Reagan,74 ,35 ,36,56 ,52 ,−21,63 ,52.8,37.0
-39,Carter,74 ,28 ,46,59 ,66 ,−31 ,34 ,45.5,22.7
-38,Ford,73 ,36 ,34,46 ,67 ,−7 ,53 ,47.2,14.7
-37,Nixon,67 ,24 ,42,66 ,57 ,−42 ,24 ,49.1,17.7
-36,Johnson,79 ,34 ,45,52 ,75 ,−18 ,49 ,55.1,15.3
-35,Kennedy,83 ,56 ,27,30 ,78 ,27 ,58 ,70.1,13.7
-34,Eisenhower,81 ,47 ,30,36 ,66 ,12 ,59 ,65.0,14.4
-33,Truman,87 ,22 ,65,67 ,85 ,−43 ,32 ,45.4,8.4
-32,F. D. Roosevelt,83 ,48 ,35,46 ,73 ,,65 ,63,8
+Order,President,Highest approval,Lowest approval,High –Low,Highest disapproval,Highest margin,Lowest margin,Final poll,Approval average,Pollsper year,Party
+46,Biden,57  ,38 ,16,59 ,20 ,−16  ,N/A,N/A,N/A,Democratic
+45,Trump,49  ,34 ,15,62 ,4 ,−28  ,34  ,41,40,Republican
+44,Obama,68 ,38 ,31,55 ,56 ,−18 ,59 ,47.9,48.4,Democratic
+43,G. W. Bush,90 ,25 ,65,71 ,83 ,−46 ,34 ,49.4,33.7,Republican
+42,Clinton,73 ,37 ,36,54 ,48 ,−14 ,66 ,55.1,28.5,Democratic
+41,G. H. W. Bush,89 ,29 ,60,60 ,82 ,−30 ,56 ,60.9,39.5,Republican
+40,Reagan,74 ,35 ,36,56 ,52 ,−21,63 ,52.8,37.0,Republican
+39,Carter,74 ,28 ,46,59 ,66 ,−31 ,34 ,45.5,22.7,Democratic
+38,Ford,73 ,36 ,34,46 ,67 ,−7 ,53 ,47.2,14.7,Republican
+37,Nixon,67 ,24 ,42,66 ,57 ,−42 ,24 ,49.1,17.7,Republican
+36,Johnson,79 ,34 ,45,52 ,75 ,−18 ,49 ,55.1,15.3,Democratic
+35,Kennedy,83 ,56 ,27,30 ,78 ,27 ,58 ,70.1,13.7,Democratic
+34,Eisenhower,81 ,47 ,30,36 ,66 ,12 ,59 ,65.0,14.4,Republican
+33,Truman,87 ,22 ,65,67 ,85 ,−43 ,32 ,45.4,8.4,Democratic
+32,F. D. Roosevelt,83 ,48 ,35,46 ,73 ,,65 ,63,8,Democratic
